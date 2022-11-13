@@ -47,39 +47,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit919&" alt="rohit919" /></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-Hi there👋, I'm Cédric Bahirwe
-🏭 I'm an iOS Engineer and Back-End (Vapor) Enthusiast
-👨🏽‍💻 Aspiring System Architect and OS X Developer
-🎼 I'm interested in finance, agriculture and education
-👷 Built Dial It, AUCA Transcript and more.
-⚙ I love Clean Code and Architecture
-🔭 I’m currently working on some projects, few things and a lot of ideas.
-👯 I’m looking to contribute on iOS Projects/Ideas
-📝 I rarely write at https://cedricbahirwe.hashnode.dev/
-💬 Ask me about Swift, SwiftUI or iOS Development in general
-⚡ Fun facts: I speak SwiftUI, and I know the truth!🧞‍♂️
-🔦 Read less on my nano website: cedricbahirwe
-Connect with me:
-Connect on LinkedIn Follow on Twitter Send me email Views
-
-- 👋 Hi, I’m @Rohit919
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Rohit919/Rohit919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
