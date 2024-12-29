@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Rohit Singh</h1>
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit919&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit919&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <h3 align="center">Hi, I am a IOS developer and I love to build IOS Apps which are both functional and interactive and Swift developer tools! Passionate about open source & developer productivity. Learning how to become better every day. I'm also learning Back-End Development and looking forward to be a Full Stack IOS Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit919&label=Profile%20views&color=0e75b6&style=flat" alt="rohit919" /> </p>
